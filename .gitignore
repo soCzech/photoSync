@@ -1,0 +1,14 @@
+Thumbs.db
+Desktop.ini
+
+bin/*
+!bin/app.py
+!bin/run.sh
+
+build/
+dist/
+trash/
+photoSync.log
+photoSync.egg-info/
+photoSync/__pycache__/
+photoSync/*.custom

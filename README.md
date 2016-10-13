@@ -4,7 +4,7 @@ Flickr and Google Drive photo synchronization in Python
 
 - OAuth sign in
 - Upload/download photos to/from Flickr albums and Google Drive folders
-- Delete photos photos from Flick and Google Drive
+- Delete photos photos from Flickr and Google Drive
 - Synchronize photos with Flickr and Google Drive
 
 Installation
@@ -38,9 +38,9 @@ Documentation
 Classes:
 - [photoSync.py](#photoSync)
 - [Explorer.py](#Explorer)
-- [OAuth.py](OAuth)
-- [Session.py](Session)
-- [Uploader.py](Uploader)
+- [OAuth.py](#OAuth)
+- [Session.py](#Session)
+- [Uploader.py](#Uploader)
 
 Other files:
 - \_\_init\_\_.py
